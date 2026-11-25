@@ -269,17 +269,4 @@ scoreboard_nordeste.dat
 
 ---
 
-## 👥 Equipe
-
-| Papel | Nome |
-|---|---|
-| Product Owner | _[seu nome]_ |
-| Desenvolvedores | _[nomes dos amigos]_ |
-
-## 📜 Licença
-
-_[Defina a licença, por exemplo MIT ou uso acadêmico]_
-
----
-
 *Feito com ☀️, cuscuz e muito código. Bora achar esse tesouro!*
